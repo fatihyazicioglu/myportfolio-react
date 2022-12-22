@@ -7,7 +7,7 @@ function Footer() {
 					<div>
 						<div className="flex flex-wrap justify-center gap-2">
 							<a 
-								href="https://twitter.com/forrestpknight"
+								href="https://twitter.com/"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 									className="w-5 h-5 fill-current"
@@ -19,7 +19,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a 
-								href="https://linkedin.com/in/forrestpknight"
+								href="www.linkedin.com/in/fatih-yazicioglu-0892b2250"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								className="w-5 h-5 fill-current"
@@ -33,7 +33,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a
-								href="https://youtube.com/fknight"
+								href="https://youtube.com/"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								className="w-5 h-5 fill-current"
@@ -44,7 +44,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a 
-								href="https://github.com/forrestknight"
+								href="https://github.com/fatihyazicioglu"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								xmlns="http://www.w3.org/2000/svg"
