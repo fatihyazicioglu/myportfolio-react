@@ -80,8 +80,9 @@ function App() {
 				<Intro />
 				<Portfolio />
 				<Timeline />
-        <Footer />
+        
 				<Contact />
+        <Footer />
 				
 			</div>
 		</div>
