@@ -11,23 +11,38 @@ function Intro() {
         Full-Stack Web Developer
       </p>
       <p className='text-sm max-w-xl mb-6 font-bold'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
-        placeat?
+        I am entering the job market after 1 year of intensive training at
+        Digital Career Institute. I am a motivated student who can grasp what I
+        learn very easily. During that training , I had to opportunity to learn
+        HTML | CSS | JavaScript | React | NodeJS | MongoDB | ExpressJs |
+        BootStrap including TypeScript.
+        <br />I graduated from a 4-year law school in 2 years with hard work. As
+        can be seen from my Github profile, I am a person who enjoys hard work.
+        I can list my strengths as willingness to take responsibility,
+        resilience, eagerness to learn.<br /> Click here to download {" "}
+        <a
+          href='src/assets/LEBENSLAUF(Fatih Yazicioglu).pdf'
+          target='_blank'
+          className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'
+          download="CV-FatihYazicioglu"
+          rel='noreferrer noopener'
+        >
+           my resume
+        </a>{" "}
         <br />
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo laborum
-        quae libero facilis eaque necessitatibus cumque culpa optio quod fugiat,
-        dicta autem ut maxime voluptatibus deleniti quasi et illo, eum veritatis
-        impedit quisquam explicabo! Explicabo excepturi odit beatae velit
-        voluptatibus!{" "}
+        to download my CV. I believe that my knowledge of Web-Developing could
+        be interest to you , as I read that you are looking to develop Mern
+        Stack Projects. I would like the opportunity to meet with you and
+        discuss the job opportunities you have available. Please let me know if
+        you have any questions or would like to see specific work samples from{" "}
         <a
           href='https://github.com/fatihyazicioglu'
           target='_blank'
           className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'
           rel='noreferrer noopener'
         >
-          Fatih
+          my Github Profile
         </a>{" "}
-        to see my WorkSamples
       </p>
     </div>
   );

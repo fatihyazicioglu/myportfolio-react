@@ -25,15 +25,15 @@ function Contact() {
           />
           <textarea
             name='message'
-            placeholder='Message'
+            placeholder='If you would like to discuss job opportunities, please reach out to me over Email'
             rows='10'
             className='p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none'
           />
           <button
-            type='button'
+            type='submit'
             className='text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-orange-500 to-gray-700 drop-shadow-md hover:stroke-white'
           >
-            Work With Me
+            Send
           </button>
         </form>
       </div>
