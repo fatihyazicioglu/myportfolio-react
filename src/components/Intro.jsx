@@ -19,7 +19,7 @@ function Intro() {
         <br />I graduated from a 4-year law school in 2 years with hard work. As
         can be seen from my Github profile, I am a person who enjoys hard work.
         I can list my strengths as willingness to take responsibility,
-        resilience, eagerness to learn.<br /> Click here to download {" "}
+        resilience, eagerness to learn.<br /> Click here to  {" "}
         <a
           href='src/assets/LEBENSLAUF(Fatih Yazicioglu).pdf'
           target='_blank'
@@ -27,12 +27,11 @@ function Intro() {
           download="CV-FatihYazicioglu"
           rel='noreferrer noopener'
         >
-           my resume
+         Download  My Resume
         </a>{" "}
         <br />
-        to download my CV. I believe that my knowledge of Web-Developing could
-        be interest to you , as I read that you are looking to develop Mern
-        Stack Projects. I would like the opportunity to meet with you and
+        I believe that my knowledge of Web-Developing could
+        be interest to you. I would like the opportunity to meet with you and
         discuss the job opportunities you have available. Please let me know if
         you have any questions or would like to see specific work samples from{" "}
         <a
