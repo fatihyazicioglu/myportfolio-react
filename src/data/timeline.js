@@ -2,7 +2,7 @@ export default [
   {
     year: "12/2022 - Today",
     title: "Internship Support Program",
-    duration: "",
+    duration: "still ongoing",
     details: "Applying for Jobs and trainee my skills",
   },
     {
@@ -20,7 +20,7 @@ export default [
 
   {
     year: "01/2019 – 08/2019",
-    title: "Praktikant Rechtsanwalt",
+    title: "Intern Lawyer",
     duration: "1 year",
     details:
       "at the Ankara/Turkey Bar Association,Client contact and correspondence, Drafting of contracts",

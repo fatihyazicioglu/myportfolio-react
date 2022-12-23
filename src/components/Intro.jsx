@@ -31,7 +31,7 @@ function Intro() {
         </a>{" "}
         <br />
         I believe that my knowledge of Web-Developing could
-        be interest to you. I would like the opportunity to meet with you and
+        be interest to you. Below some of my relevant Projects. I would like the opportunity to meet with you and
         discuss the job opportunities you have available. Please let me know if
         you have any questions or would like to see specific work samples from{" "}
         <a
