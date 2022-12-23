@@ -1,37 +1,46 @@
 export default [
     {
-       year: '2022',
-       title: 'YouTube Content Creator',
-       duration: '6 years',
-       details: 
-          'xyy',
-    },
-    {
-         year: 'Y',
-         title: 'Solo Indie Developer',
-         duration: '4 years',
-         details:
-             "I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
-     },
-     {
-         year: 'Z',
-         title: 'Software Engineer',
-         duration: '2 years',
-         details:
-             'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
-     },
-     {
-         year: '2018',
-         title: "Bachelor's Degree in Computer Science",
-         duration: '1 years',
-         details:
-             'I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.',
-     },
-     {
-         year: '2016',
-         title: 'First Line of Code',
-         duration: 'the beginning',
-         details:
-             "I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker.",
-     },
- ]
+        year: "12/2021 - 12-2022",
+        title: "Full Stack Web Development Course",
+        duration: "1 year",
+        details: "Digital Career Institute Gmbhg",
+      },
+  {
+    year: "10/2019 – 05/2021",
+    title: "Language Certificate German-C1",
+    duration: "1.5 year",
+    details: "C1 Alpadia Berlin Sprachschule GmbH, B2 Berlin HWR Universität Deutschkurse, B1 Volkshochschule Tempelhof-Schöneberg,A2 WIPA GmbH, A1 Volkshochschule City-West",
+  },
+
+  {
+    year: "01/2019 – 08/2019",
+    title: "Praktikant Rechtsanwalt",
+    duration: "1 year",
+    details:
+      "at the Ankara/Turkey Bar Association,Client contact and correspondence, Drafting of contracts",
+  },
+  {
+    year: "09/2016 – 01/2019",
+    title: "Faculty of Law",
+    duration: "2 years",
+    details: "Anadolu University,4-year Law School,Diploma",
+  },
+  {
+    year: "05/2015 – 06/2016",
+    title: "Self-preparation",
+    duration: "1 year",
+    details: "Self-preparation time for university entrance examination",
+  },
+  {
+    year: "09/2013 – 04/2015",
+    title: "Bachelor's Degree ",
+    duration: "2 years",
+    details: " Ankara Police Academy /Faculty of Security Science",
+  },
+  {
+    year: "09/2009 – 06/2013",
+    title: "High School",
+    duration: "4 years",
+    details: "Ankara Police College",
+  },
+];

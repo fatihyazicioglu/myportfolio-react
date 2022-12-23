@@ -23,14 +23,14 @@ export default [
       stack: ['HTML', 'CSS'],
       link: 'https://fatihyazicioglu.github.io/Gallery-Wall/',
    },{
-      title: 'My very First Project',
-      imgUrl: 'src/assets/myFirstProjectScreenShot.png',
-      stack: ['HTML', 'CSS'],
-      link: 'https://fatihyazicioglu.github.io/my-first-project/',
+      title: 'To-Do List',
+      imgUrl: 'src/assets/TodoListScreenShot.png',
+      stack: ['HTML', 'CSS','JavaScript'],
+      link: 'https://fatihyazicioglu.github.io/To-Do-List/',
    },{
-      title: 'music-app',
-      imgUrl: '/assets/z.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: '',
+      title: 'my Portfolio',
+      imgUrl: 'src/assets/myPortfolioScreenShot.png',
+      stack: ['HTML', 'CSS', 'JavaScript','React','Vite','TailwindCss','Getform.io'],
+      link: 'https://fatihyazicioglu.github.io/myportfolio-react/',
    },
  ]
