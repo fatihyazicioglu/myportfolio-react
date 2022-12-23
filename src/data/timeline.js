@@ -1,8 +1,14 @@
 export default [
+  {
+    year: "12/2022 - Today",
+    title: "Internship Support Program",
+    duration: "",
+    details: "Applying for Jobs and trainee my skills",
+  },
     {
-        year: "12/2021 - 12-2022",
+        year: "9/2021 - 12/2022",
         title: "Full Stack Web Development Course",
-        duration: "1 year",
+        duration: "1 year + Orientation Course",
         details: "Digital Career Institute Gmbhg",
       },
   {
