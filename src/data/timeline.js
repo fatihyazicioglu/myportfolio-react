@@ -20,10 +20,10 @@ export default [
 
   {
     year: "01/2019 – 08/2019",
-    title: "Praktikant Rechtsanwalt",
+    title: "Intern Lawyer",
     duration: "1 year",
     details:
-      "at the Ankara/Turkey Bar Association,Client contact and correspondence, Drafting of contracts",
+      "at the Ankara/Turkey Bar Association, client contact and correspondence, Drafting of contracts",
   },
   {
     year: "09/2016 – 01/2019",

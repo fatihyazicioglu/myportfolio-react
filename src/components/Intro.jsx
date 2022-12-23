@@ -32,7 +32,7 @@ function Intro() {
         <br />
         I believe that my knowledge of Web-Developing could
         be interest to you. I would like the opportunity to meet with you and
-        discuss the job opportunities you have available. Please let me know if
+        discuss the job opportunities you have available. Below are some of my relevant projects. Please let me know if
         you have any questions or would like to see specific work samples from{" "}
         <a
           href='https://github.com/fatihyazicioglu'
