@@ -1,4 +1,6 @@
 import React from 'react';
+import portfolio from '../data/portfolio';
+import PortfolioItem from './PortfolioItem.jsx';
 
 function PortfolioItem({ title, imgUrl, stack, link }) {
    return (
