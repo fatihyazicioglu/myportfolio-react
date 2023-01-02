@@ -21,7 +21,7 @@ function Intro() {
         I can list my strengths as willingness to take responsibility,
         resilience, eagerness to learn.<br /> Click here to  {" "}
         <a
-          href='public/[Lebenslauf]Fatih Yazicioglu.pdf'
+          href='../public/[Lebenslauf]Fatih Yazicioglu.pdf'
           target='_blank'
           className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'
           download="Lebenslauf-FatihYazicioglu"
