@@ -1,15 +1,12 @@
 import React from 'react';
-import portfolio from '../data/portfolio';
-import PortfolioItem from './PortfolioItem.jsx';
+
 
 function PortfolioItem({ title, imgUrl, stack, link }) {
    return (
-      <a 
-         href={link}
-         target="_blank"
-         rel="noopener noreferrer"
-         className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
-      >
+      <a href={link}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden">
          <img
             src={imgUrl}
             alt="portfolio" 
