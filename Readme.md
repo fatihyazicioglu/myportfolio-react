@@ -1,4 +1,4 @@
-learn more about Tailwind abd Vite
+learn more about Tailwind and Vite
 
 
 https://fonts.google.com/
