@@ -11,29 +11,28 @@ function Intro() {
         Full-Stack Web Developer
       </p>
       <p className='text-sm max-w-xl mb-6 font-bold'>
-        I am entering the job market after 1 year of intensive training at
-        Digital Career Institute. I am a motivated student who can grasp what I
-        learn very easily. During that training , I had to opportunity to learn
-        HTML | CSS | JavaScript | React | NodeJS | MongoDB | ExpressJs |
-        BootStrap including TypeScript.
-        <br />I graduated from a 4-year law school in 2 years with hard work. As
-        can be seen from my Github profile, I am a person who enjoys hard work.
-        I can list my strengths as willingness to take responsibility,
-        resilience, eagerness to learn.<br /> Click here to  {" "}
+        Intern Web Developer after 1.5 years of full-time training in full-stack
+        web development (MERN Stack). Looking for a new challenge to implement
+        knowledge from web development, to contribute and develop it in a
+        solution- oriented way. Characterized by excellent learning ability,
+        strong motivation and resillience.
+        <br />
+       
+        <br /> Click here to{" "}
         <a
-          href='../public/[Lebenslauf]Fatih Yazicioglu.pdf'
+          href='../public/[Lebenslauf]fatihyazicioglu.pdf'
           target='_blank'
           className='text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600'
-          download="Lebenslauf-FatihYazicioglu"
+          download='Lebenslauf-FatihYazicioglu'
           rel='noreferrer noopener'
         >
-         Download  My Resume
+          Download My Resume
         </a>{" "}
-        <br />
-        I believe that my knowledge of Web-Developing could
-        be interest to you. Below some of my relevant Projects. I would like the opportunity to meet with you and
-        discuss the job opportunities you have available. Please let me know if
-        you have any questions or would like to see specific work samples from{" "}
+        <br />I believe that my knowledge of Web-Developing could be interest to
+        you. Below some of my relevant Projects. I would like the opportunity to
+        meet with you and discuss the job opportunities you have available.
+        Please let me know if you have any questions or would like to see
+        specific work samples from{" "}
         <a
           href='https://github.com/fatihyazicioglu'
           target='_blank'

@@ -20,10 +20,10 @@ export default [
 
   {
     year: "01/2019 – 08/2019",
-    title: "Intern Lawyer",
+    title: "Trainee Lawyer",
     duration: "1 year",
     details:
-      "at the Ankara/Turkey Bar Association,Client contact and correspondence, Drafting of contracts",
+      "at the the Union of Turkish Bar Association",
   },
   {
     year: "09/2016 – 01/2019",
