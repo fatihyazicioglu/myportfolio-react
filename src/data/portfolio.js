@@ -26,7 +26,7 @@ export default [
       title: 'To-Do List',
       imgUrl: '../public/images/5.png',
       stack: ['HTML', 'CSS','JavaScript'],
-      link: 'https://fatihyazicioglu.github.io/To-Do-List/',
+      link: 'https://github.com/fatihyazicioglu/To-Do-List',
    },{
       title: 'my Portfolio',
       imgUrl: '../public/images/6.png',
