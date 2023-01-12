@@ -11,14 +11,13 @@ function Intro() {
         Full-Stack Web Developer
       </p>
       <p className='text-sm max-w-xl mb-6 font-bold'>
-        Intern Web Developer after 1.5 years of full-time training in full-stack
-        web development (MERN Stack). Looking for a new challenge to implement
+         Looking for a new challenge to implement
         knowledge from web development, to contribute and develop it in a
-        solution- oriented way. Characterized by excellent learning ability,
+        solution- oriented way. <br />Characterized by excellent learning ability,
         strong motivation and resillience.
         <br />
        
-        <br /> Click here to{" "}
+        <br /> Click here to;{" "} <br />
         <a
           href='../public/[Lebenslauf]fatihyazicioglu.pdf'
           target='_blank'
@@ -32,7 +31,7 @@ function Intro() {
         you. Below some of my relevant Projects. I would like the opportunity to
         meet with you and discuss the job opportunities you have available.
         Please let me know if you have any questions or would like to see
-        specific work samples from{" "}
+        specific work samples from;{" "}<br />
         <a
           href='https://github.com/fatihyazicioglu'
           target='_blank'
