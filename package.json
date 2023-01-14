@@ -1,12 +1,12 @@
 {
-  "homepage": "https://fatihyazicioglu.github.io/myportfolio-react/",
+  "homepage": "https://myportfolio-react-81131.web.app/",
   "name": "myportfolio-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && firebase deploy",
     "preview": "vite preview"
     
   },
