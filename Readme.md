@@ -1,10 +1,10 @@
-learn more about Tailwind and Vite
+learn more about  Vite
 
 
-https://fonts.google.com/
+
 
 endpoint generated with https://app.getform.io/forms
 
 
-dark mode (useState)
-for icons https://heroicons.com/
+
+
